@@ -6,7 +6,7 @@ subtitle: Ph.D. student in Biomedical Systems Informatics, Yonsei University Col
 
 profile:
   align: right
-  image: Dahyoun_Lee.jpg
+  image: Dahyoun Lee.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><a href="https://egyptdj.github.io/naipl/" target="_blank">NAIPL</a></p>
