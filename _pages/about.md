@@ -30,9 +30,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-
-I am a Ph.D. student in Biomedical Systems Informatics at Yonsei University College of Medicine.
-
 My research focuses on computational neuroimaging and medical AI, with particular interests in brain dynamics modeling, resting-state fMRI, brain foundation models, large language models, and vision-language models.
 
 My current work aims to develop explainable models for brain dynamics and representation learning, with applications to transdiagnostic mental disorder prediction.
