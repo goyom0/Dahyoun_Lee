@@ -9,10 +9,16 @@ profile:
   image: Dahyoun.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Neuroimaging & Artificial Intelligence for Psychiatry Lab; <a href="https://egyptdj.github.io/naipl/" target="_blank">NAIPL</a></p>
+  <div style="font-size: 0.88rem; line-height: 1.45;">
+    <p>
+      <a href="https://egyptdj.github.io/naipl/" target="_blank" rel="noopener noreferrer">
+        Neuroimaging & Artificial Intelligence for Psychiatry Lab
+      </a>
+    </p>
     <p>Yonsei University College of Medicine</p>
     <p>50-1 Yonsei-ro, Seodaemun-gu</p>
     <p>Seoul 03722, Republic of Korea</p>
+  </div>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -48,6 +54,6 @@ My current work aims to develop explainable models for brain dynamics and repres
 ## Contact
 
 Please feel free to contact me by email.
-- Email: [goyom@yonsei.ac.kr](mailto:goyom@yonsei.ac.kr)
+- Email: [goyom@yonsei.ac.kr](mailto:goyom@yonsei.ac.kr) & [goyom@yuhs.ac](mailto:goyom@yuhs.ac)
 - Linked-In: [Dahyoun Lee](https://www.linkedin.com/in/dahyoun-lee-0bb322392/)
 - ORCID: [0009-0006-6344-0101](https://orcid.org/0009-0006-6344-0101)
