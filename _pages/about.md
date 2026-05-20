@@ -9,7 +9,7 @@ profile:
   image: Dahyoun.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a href="https://egyptdj.github.io/naipl/" target="_blank">NAIPL</a></p>
+    <p>Neuroimaging & Artificial Intelligence for Psychiatry Lab; <a href="https://egyptdj.github.io/naipl/" target="_blank">NAIPL</a></p>
     <p>Yonsei University College of Medicine</p>
     <p>50-1 Yonsei-ro, Seodaemun-gu</p>
     <p>Seoul 03722, Republic of Korea</p>
