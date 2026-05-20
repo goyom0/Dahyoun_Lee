@@ -49,5 +49,5 @@ My current work aims to develop explainable models for brain dynamics and repres
 
 Please feel free to contact me by email.
 - Email: [goyom@yonsei.ac.kr](mailto:goyom@yonsei.ac.kr)
-- Linked-In: [goyom@yuhs.ac](mailto:goyom@yuhs.ac)
+- Linked-In: [Dahyoun Lee](https://www.linkedin.com/in/dahyoun-lee-0bb322392/)
 - ORCID: [0009-0006-6344-0101](https://orcid.org/0009-0006-6344-0101)
